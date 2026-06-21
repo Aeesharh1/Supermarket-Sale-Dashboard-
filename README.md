@@ -43,6 +43,3 @@ The biggest challenges in this project were **dashboard design** and **getting D
 <img width="1274" height="672" alt="Screenshot 2026-06-18 203300" src="https://github.com/user-attachments/assets/1f05f17a-1542-4e41-a0dc-3171179d8ecc" />
 
 
-## 🔗 Connect
-
-Feel free to check out the dashboard and reach out with feedback or suggestions — always open to learning from others in the data community!
